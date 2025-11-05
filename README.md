@@ -209,6 +209,7 @@ Refresh the page so we're starting with a blank slate, then grab the dodger agai
 const dodger = document.getElementById("dodger");
 ```
 
+
 Now we'll build our `moveDodgerLeft()` function, adding a check on the current
 position of the dodger:
 
